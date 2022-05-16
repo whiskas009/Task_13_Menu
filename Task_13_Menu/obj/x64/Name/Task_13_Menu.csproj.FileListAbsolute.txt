@@ -1,0 +1,6 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_13_Menu\Task_13_Menu\bin\x64\Name\Task_13_Menu.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_13_Menu\Task_13_Menu\bin\x64\Name\Task_13_Menu.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_13_Menu\Task_13_Menu\obj\x64\Name\Task_13_Menu.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_13_Menu\Task_13_Menu\obj\x64\Name\Task_13_Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_13_Menu\Task_13_Menu\obj\x64\Name\Task_13_Menu.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_13_Menu\Task_13_Menu\obj\x64\Name\Task_13_Menu.exe
